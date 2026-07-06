@@ -1,13 +1,12 @@
-# Guess the Number 🎮
+# Guess the Number
 
-A simple guessing game written in Python.
+A simple number guessing game made with Python.
 
 ## Features
 - Random number generation
 - Higher / Lower hints
-- Guess counter
+- 5 attempts limit
+- Counts the number of tries
 
-## Technologies
-- Python
-
-This project was created as part of my Python learning journey.
+## Author
+Rozhin
